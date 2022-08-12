@@ -38,7 +38,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           centerTitle: true,
           backgroundColor: Colors.amber,
-          title: const Text('Flutter with FireBAse'),
+          title: const Text('I love learn  FireBAse'),
         ),
         body: SafeArea(
           child: Column(
